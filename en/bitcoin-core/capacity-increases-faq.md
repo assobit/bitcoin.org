@@ -14,6 +14,8 @@ breadcrumbs:
 ---
 # Capacity increases FAQ
 
+Other versions: [Italiano](/it/bitcoin-core/capacity-increases-faq) \| [简体中文](/zh_CN/bitcoin-core/capacity-increases-faq) \| [繁體中文](/zh_TW/bitcoin-core/capacity-increases-faq)
+
 1. toc
 {:toc}
 
